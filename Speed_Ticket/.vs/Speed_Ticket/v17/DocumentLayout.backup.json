@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Speed_Ticket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F06EDB-84C8-48A5-896F-B8BC3FAF76EE}|Speed_Ticket\\Speed_Ticket.csproj|c:\\users\\oscar diaz\\source\\repos\\c# projects\\speed_ticket\\speed_ticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F06EDB-84C8-48A5-896F-B8BC3FAF76EE}|Speed_Ticket\\Speed_Ticket.csproj|solutionrelative:speed_ticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Speed_Ticket\\Speed_Ticket\\Program.cs",
+              "RelativeDocumentMoniker": "Speed_Ticket\\Program.cs",
+              "ToolTip": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Speed_Ticket\\Speed_Ticket\\Program.cs*",
+              "RelativeToolTip": "Speed_Ticket\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:29:39.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

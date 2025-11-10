@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\obj\Debug\net8.0\refint\Multithreading.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multithreading\Multithreading\obj\Debug\net8.0\ref\Multithreading.dll

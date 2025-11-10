@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\specialNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4573DE66-0DC2-4676-8E58-C4BB404F16CA}|specialNumbers\\specialNumbers.csproj|c:\\users\\oscar diaz\\source\\repos\\c# projects\\specialnumbers\\specialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4573DE66-0DC2-4676-8E58-C4BB404F16CA}|specialNumbers\\specialNumbers.csproj|solutionrelative:specialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\specialNumbers\\specialNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "specialNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\specialNumbers\\specialNumbers\\Program.cs",
+              "RelativeToolTip": "specialNumbers\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T21:03:09.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

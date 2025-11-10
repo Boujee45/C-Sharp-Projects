@@ -1,0 +1,28 @@
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\bin\Debug\net8.0\Guess_Game.exe
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\bin\Debug\net8.0\Guess_Game.deps.json
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\bin\Debug\net8.0\Guess_Game.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\bin\Debug\net8.0\Guess_Game.dll
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\bin\Debug\net8.0\Guess_Game.pdb
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.dll
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\obj\Debug\net8.0\refint\Guess_Game.dll
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.pdb
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\Guess_Game\Guess_Game\obj\Debug\net8.0\ref\Guess_Game.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\bin\Debug\net8.0\Guess_Game.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\bin\Debug\net8.0\Guess_Game.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\bin\Debug\net8.0\Guess_Game.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\bin\Debug\net8.0\Guess_Game.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\bin\Debug\net8.0\Guess_Game.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\obj\Debug\net8.0\refint\Guess_Game.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\obj\Debug\net8.0\Guess_Game.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Guess_Game\Guess_Game\obj\Debug\net8.0\ref\Guess_Game.dll

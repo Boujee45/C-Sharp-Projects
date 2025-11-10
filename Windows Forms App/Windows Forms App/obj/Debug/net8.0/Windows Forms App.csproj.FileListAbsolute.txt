@@ -1,0 +1,4 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Windows Forms App\Windows Forms App\obj\Debug\net8.0\Windows Forms App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Windows Forms App\Windows Forms App\obj\Debug\net8.0\Windows Forms App.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Windows Forms App\Windows Forms App\obj\Debug\net8.0\Windows Forms App.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Windows Forms App\Windows Forms App\obj\Debug\net8.0\Windows Forms App.csproj.CoreCompileInputs.cache

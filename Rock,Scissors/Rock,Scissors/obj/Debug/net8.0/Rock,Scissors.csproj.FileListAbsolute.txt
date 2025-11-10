@@ -1,0 +1,28 @@
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\bin\Debug\net8.0\Rock,Scissors.exe
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\bin\Debug\net8.0\Rock,Scissors.deps.json
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\bin\Debug\net8.0\Rock,Scissors.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\bin\Debug\net8.0\Rock,Scissors.dll
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\bin\Debug\net8.0\Rock,Scissors.pdb
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.dll
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\refint\Rock,Scissors.dll
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.pdb
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\ref\Rock,Scissors.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\bin\Debug\net8.0\Rock,Scissors.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\bin\Debug\net8.0\Rock,Scissors.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\bin\Debug\net8.0\Rock,Scissors.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\bin\Debug\net8.0\Rock,Scissors.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\bin\Debug\net8.0\Rock,Scissors.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\refint\Rock,Scissors.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\Rock,Scissors.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Rock,Scissors\Rock,Scissors\obj\Debug\net8.0\ref\Rock,Scissors.dll

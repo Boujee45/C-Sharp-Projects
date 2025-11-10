@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Pin Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D97187E-5536-40BB-BE3B-499F0D992FB6}|Pin Generator\\Pin Generator.csproj|c:\\users\\oscar diaz\\source\\repos\\c# projects\\pin generator\\pin generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D97187E-5536-40BB-BE3B-499F0D992FB6}|Pin Generator\\Pin Generator.csproj|solutionrelative:pin generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Pin Generator\\Pin Generator\\Program.cs",
+              "RelativeDocumentMoniker": "Pin Generator\\Program.cs",
+              "ToolTip": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Pin Generator\\Pin Generator\\Program.cs",
+              "RelativeToolTip": "Pin Generator\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:26:31.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

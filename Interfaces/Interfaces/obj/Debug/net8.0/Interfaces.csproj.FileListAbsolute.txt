@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Interfaces\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

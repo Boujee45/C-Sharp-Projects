@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\bin\Debug\net8.0\Speed_Ticket.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\bin\Debug\net8.0\Speed_Ticket.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\bin\Debug\net8.0\Speed_Ticket.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\bin\Debug\net8.0\Speed_Ticket.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\bin\Debug\net8.0\Speed_Ticket.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\obj\Debug\net8.0\Speed_Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\obj\Debug\net8.0\Speed_Ticket.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\obj\Debug\net8.0\Speed_Ticket.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\obj\Debug\net8.0\Speed_Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\obj\Debug\net8.0\Speed_Ticket.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\obj\Debug\net8.0\refint\Speed_Ticket.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\obj\Debug\net8.0\Speed_Ticket.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\obj\Debug\net8.0\Speed_Ticket.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Speed_Ticket\Speed_Ticket\obj\Debug\net8.0\ref\Speed_Ticket.dll

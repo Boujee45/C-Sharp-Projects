@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\bin\Debug\net8.0\Coffee Shop.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\bin\Debug\net8.0\Coffee Shop.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\bin\Debug\net8.0\Coffee Shop.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\bin\Debug\net8.0\Coffee Shop.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\bin\Debug\net8.0\Coffee Shop.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\obj\Debug\net8.0\Coffee Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\obj\Debug\net8.0\Coffee Shop.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\obj\Debug\net8.0\Coffee Shop.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\obj\Debug\net8.0\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\obj\Debug\net8.0\Coffee Shop.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\obj\Debug\net8.0\refint\Coffee Shop.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\obj\Debug\net8.0\Coffee Shop.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\obj\Debug\net8.0\Coffee Shop.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Coffee Shop\Coffee Shop\obj\Debug\net8.0\ref\Coffee Shop.dll

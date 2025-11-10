@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Windows Forms App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12247B84-7434-4CFF-B642-02E93E0BD128}|Windows Forms App\\Windows Forms App.csproj|c:\\users\\oscar diaz\\source\\repos\\c# projects\\windows forms app\\windows forms app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12247B84-7434-4CFF-B642-02E93E0BD128}|Windows Forms App\\Windows Forms App.csproj|solutionrelative:windows forms app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Windows Forms App\\Windows Forms App\\Program.cs",
+              "RelativeDocumentMoniker": "Windows Forms App\\Program.cs",
+              "ToolTip": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Windows Forms App\\Windows Forms App\\Program.cs",
+              "RelativeToolTip": "Windows Forms App\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:32:43.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

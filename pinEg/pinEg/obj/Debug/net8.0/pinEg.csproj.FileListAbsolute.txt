@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\bin\Debug\net8.0\pinEg.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\bin\Debug\net8.0\pinEg.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\bin\Debug\net8.0\pinEg.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\bin\Debug\net8.0\pinEg.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\bin\Debug\net8.0\pinEg.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\obj\Debug\net8.0\pinEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\obj\Debug\net8.0\pinEg.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\obj\Debug\net8.0\pinEg.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\obj\Debug\net8.0\pinEg.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\obj\Debug\net8.0\pinEg.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\obj\Debug\net8.0\refint\pinEg.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\obj\Debug\net8.0\pinEg.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\obj\Debug\net8.0\pinEg.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\pinEg\pinEg\obj\Debug\net8.0\ref\pinEg.dll

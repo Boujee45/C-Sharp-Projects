@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\bin\Debug\net8.0\EG.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\bin\Debug\net8.0\EG.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\bin\Debug\net8.0\EG.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\bin\Debug\net8.0\EG.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\bin\Debug\net8.0\EG.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\obj\Debug\net8.0\EG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\obj\Debug\net8.0\EG.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\obj\Debug\net8.0\EG.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\obj\Debug\net8.0\EG.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\obj\Debug\net8.0\EG.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\obj\Debug\net8.0\refint\EG.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\obj\Debug\net8.0\EG.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\obj\Debug\net8.0\EG.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\EG\EG\obj\Debug\net8.0\ref\EG.dll

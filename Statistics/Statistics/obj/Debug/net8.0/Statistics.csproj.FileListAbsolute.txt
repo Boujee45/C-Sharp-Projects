@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\bin\Debug\net8.0\Statistics.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\bin\Debug\net8.0\Statistics.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\bin\Debug\net8.0\Statistics.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\bin\Debug\net8.0\Statistics.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\bin\Debug\net8.0\Statistics.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\obj\Debug\net8.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\obj\Debug\net8.0\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\obj\Debug\net8.0\Statistics.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\obj\Debug\net8.0\refint\Statistics.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\obj\Debug\net8.0\Statistics.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\obj\Debug\net8.0\Statistics.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Statistics\Statistics\obj\Debug\net8.0\ref\Statistics.dll

@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\bin\Debug\net8.0\Groceries.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\bin\Debug\net8.0\Groceries.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\bin\Debug\net8.0\Groceries.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\bin\Debug\net8.0\Groceries.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\bin\Debug\net8.0\Groceries.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\obj\Debug\net8.0\Groceries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\obj\Debug\net8.0\Groceries.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\obj\Debug\net8.0\Groceries.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\obj\Debug\net8.0\Groceries.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\obj\Debug\net8.0\Groceries.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\obj\Debug\net8.0\refint\Groceries.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\obj\Debug\net8.0\Groceries.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\obj\Debug\net8.0\Groceries.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Groceries\Groceries\obj\Debug\net8.0\ref\Groceries.dll

@@ -1,0 +1,28 @@
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\bin\Debug\net8.0\Square Calculator.exe
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\bin\Debug\net8.0\Square Calculator.deps.json
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\bin\Debug\net8.0\Square Calculator.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\bin\Debug\net8.0\Square Calculator.dll
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\bin\Debug\net8.0\Square Calculator.pdb
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.dll
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\obj\Debug\net8.0\refint\Square Calculator.dll
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.pdb
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\Square Calculator\Square Calculator\obj\Debug\net8.0\ref\Square Calculator.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\bin\Debug\net8.0\Square Calculator.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\bin\Debug\net8.0\Square Calculator.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\bin\Debug\net8.0\Square Calculator.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\bin\Debug\net8.0\Square Calculator.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\bin\Debug\net8.0\Square Calculator.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\obj\Debug\net8.0\refint\Square Calculator.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\obj\Debug\net8.0\Square Calculator.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Square Calculator\Square Calculator\obj\Debug\net8.0\ref\Square Calculator.dll

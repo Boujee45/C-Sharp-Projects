@@ -1,0 +1,28 @@
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\bin\Debug\net8.0\CLASS_CAL.exe
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\bin\Debug\net8.0\CLASS_CAL.deps.json
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\bin\Debug\net8.0\CLASS_CAL.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\bin\Debug\net8.0\CLASS_CAL.dll
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\bin\Debug\net8.0\CLASS_CAL.pdb
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.dll
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\refint\CLASS_CAL.dll
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.pdb
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\ref\CLASS_CAL.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\bin\Debug\net8.0\CLASS_CAL.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\bin\Debug\net8.0\CLASS_CAL.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\bin\Debug\net8.0\CLASS_CAL.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\bin\Debug\net8.0\CLASS_CAL.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\bin\Debug\net8.0\CLASS_CAL.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\refint\CLASS_CAL.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\CLASS_CAL.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\CLASS_CAL\CLASS_CAL\obj\Debug\net8.0\ref\CLASS_CAL.dll

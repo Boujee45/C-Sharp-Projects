@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\bin\Debug\net8.0\Array Product.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\bin\Debug\net8.0\Array Product.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\bin\Debug\net8.0\Array Product.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\bin\Debug\net8.0\Array Product.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\bin\Debug\net8.0\Array Product.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\obj\Debug\net8.0\Array Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\obj\Debug\net8.0\Array Product.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\obj\Debug\net8.0\Array Product.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\obj\Debug\net8.0\Array Product.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\obj\Debug\net8.0\Array Product.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\obj\Debug\net8.0\refint\Array Product.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\obj\Debug\net8.0\Array Product.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\obj\Debug\net8.0\Array Product.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Array Product\Array Product\obj\Debug\net8.0\ref\Array Product.dll

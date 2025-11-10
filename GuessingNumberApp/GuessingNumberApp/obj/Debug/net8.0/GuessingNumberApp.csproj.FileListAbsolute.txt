@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\bin\Debug\net8.0\GuessingNumberApp.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\bin\Debug\net8.0\GuessingNumberApp.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\bin\Debug\net8.0\GuessingNumberApp.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\bin\Debug\net8.0\GuessingNumberApp.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\bin\Debug\net8.0\GuessingNumberApp.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\obj\Debug\net8.0\GuessingNumberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\obj\Debug\net8.0\GuessingNumberApp.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\obj\Debug\net8.0\GuessingNumberApp.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\obj\Debug\net8.0\GuessingNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\obj\Debug\net8.0\GuessingNumberApp.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\obj\Debug\net8.0\refint\GuessingNumberApp.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\obj\Debug\net8.0\GuessingNumberApp.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\obj\Debug\net8.0\GuessingNumberApp.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GuessingNumberApp\GuessingNumberApp\obj\Debug\net8.0\ref\GuessingNumberApp.dll

@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\bin\Debug\net8.0\Factorial Calculator.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\bin\Debug\net8.0\Factorial Calculator.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\bin\Debug\net8.0\Factorial Calculator.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\bin\Debug\net8.0\Factorial Calculator.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\bin\Debug\net8.0\Factorial Calculator.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\obj\Debug\net8.0\Factorial Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\obj\Debug\net8.0\Factorial Calculator.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\obj\Debug\net8.0\Factorial Calculator.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\obj\Debug\net8.0\Factorial Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\obj\Debug\net8.0\Factorial Calculator.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\obj\Debug\net8.0\refint\Factorial Calculator.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\obj\Debug\net8.0\Factorial Calculator.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\obj\Debug\net8.0\Factorial Calculator.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Factorial Calculator\Factorial Calculator\obj\Debug\net8.0\ref\Factorial Calculator.dll

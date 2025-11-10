@@ -1,0 +1,28 @@
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\bin\Debug\net8.0\Celsius to Fahrenheit.exe
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\bin\Debug\net8.0\Celsius to Fahrenheit.deps.json
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\bin\Debug\net8.0\Celsius to Fahrenheit.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\bin\Debug\net8.0\Celsius to Fahrenheit.dll
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\bin\Debug\net8.0\Celsius to Fahrenheit.pdb
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.dll
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\refint\Celsius to Fahrenheit.dll
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.pdb
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\ref\Celsius to Fahrenheit.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\bin\Debug\net8.0\Celsius to Fahrenheit.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\bin\Debug\net8.0\Celsius to Fahrenheit.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\bin\Debug\net8.0\Celsius to Fahrenheit.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\bin\Debug\net8.0\Celsius to Fahrenheit.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\bin\Debug\net8.0\Celsius to Fahrenheit.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\refint\Celsius to Fahrenheit.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\Celsius to Fahrenheit.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Celsius to Fahrenheit\Celsius to Fahrenheit\obj\Debug\net8.0\ref\Celsius to Fahrenheit.dll

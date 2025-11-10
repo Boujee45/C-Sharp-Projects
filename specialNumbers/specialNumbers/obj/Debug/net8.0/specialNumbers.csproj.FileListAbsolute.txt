@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\bin\Debug\net8.0\specialNumbers.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\bin\Debug\net8.0\specialNumbers.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\bin\Debug\net8.0\specialNumbers.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\bin\Debug\net8.0\specialNumbers.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\bin\Debug\net8.0\specialNumbers.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\obj\Debug\net8.0\specialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\obj\Debug\net8.0\specialNumbers.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\obj\Debug\net8.0\specialNumbers.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\obj\Debug\net8.0\specialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\obj\Debug\net8.0\specialNumbers.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\obj\Debug\net8.0\refint\specialNumbers.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\obj\Debug\net8.0\specialNumbers.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\obj\Debug\net8.0\specialNumbers.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\specialNumbers\specialNumbers\obj\Debug\net8.0\ref\specialNumbers.dll

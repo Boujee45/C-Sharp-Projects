@@ -1,0 +1,28 @@
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\bin\Debug\net8.0\Fixed Deposits.exe
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\bin\Debug\net8.0\Fixed Deposits.deps.json
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\bin\Debug\net8.0\Fixed Deposits.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\bin\Debug\net8.0\Fixed Deposits.dll
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\bin\Debug\net8.0\Fixed Deposits.pdb
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.dll
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\refint\Fixed Deposits.dll
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.pdb
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\ref\Fixed Deposits.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\bin\Debug\net8.0\Fixed Deposits.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\bin\Debug\net8.0\Fixed Deposits.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\bin\Debug\net8.0\Fixed Deposits.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\bin\Debug\net8.0\Fixed Deposits.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\bin\Debug\net8.0\Fixed Deposits.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\refint\Fixed Deposits.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\Fixed Deposits.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Fixed Deposits\Fixed Deposits\obj\Debug\net8.0\ref\Fixed Deposits.dll

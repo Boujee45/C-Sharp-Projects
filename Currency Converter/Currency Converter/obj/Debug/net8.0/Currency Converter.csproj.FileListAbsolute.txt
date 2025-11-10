@@ -1,0 +1,28 @@
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\bin\Debug\net8.0\Currency Converter.exe
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\bin\Debug\net8.0\Currency Converter.deps.json
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\bin\Debug\net8.0\Currency Converter.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\bin\Debug\net8.0\Currency Converter.dll
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\bin\Debug\net8.0\Currency Converter.pdb
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.dll
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0\refint\Currency Converter.dll
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.pdb
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0\ref\Currency Converter.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\bin\Debug\net8.0\Currency Converter.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\bin\Debug\net8.0\Currency Converter.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\bin\Debug\net8.0\Currency Converter.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\bin\Debug\net8.0\Currency Converter.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\bin\Debug\net8.0\Currency Converter.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\obj\Debug\net8.0\refint\Currency Converter.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\obj\Debug\net8.0\Currency Converter.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Currency Converter\Currency Converter\obj\Debug\net8.0\ref\Currency Converter.dll

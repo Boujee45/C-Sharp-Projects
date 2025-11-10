@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\bin\Debug\net8.0\oddsArray.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\bin\Debug\net8.0\oddsArray.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\bin\Debug\net8.0\oddsArray.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\bin\Debug\net8.0\oddsArray.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\bin\Debug\net8.0\oddsArray.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\obj\Debug\net8.0\oddsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\obj\Debug\net8.0\oddsArray.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\obj\Debug\net8.0\oddsArray.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\obj\Debug\net8.0\oddsArray.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\obj\Debug\net8.0\oddsArray.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\obj\Debug\net8.0\refint\oddsArray.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\obj\Debug\net8.0\oddsArray.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\obj\Debug\net8.0\oddsArray.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\oddsArray\oddsArray\obj\Debug\net8.0\ref\oddsArray.dll

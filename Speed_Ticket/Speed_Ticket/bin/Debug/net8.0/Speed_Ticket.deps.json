@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Speed_Ticket/1.0.0": {
+        "runtime": {
+          "Speed_Ticket.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Speed_Ticket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

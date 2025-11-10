@@ -1,0 +1,28 @@
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\bin\Debug\net8.0\GRADE_ASSESSMENT.exe
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\bin\Debug\net8.0\GRADE_ASSESSMENT.deps.json
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\bin\Debug\net8.0\GRADE_ASSESSMENT.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\bin\Debug\net8.0\GRADE_ASSESSMENT.dll
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\bin\Debug\net8.0\GRADE_ASSESSMENT.pdb
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.dll
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\refint\GRADE_ASSESSMENT.dll
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.pdb
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\ref\GRADE_ASSESSMENT.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\bin\Debug\net8.0\GRADE_ASSESSMENT.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\bin\Debug\net8.0\GRADE_ASSESSMENT.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\bin\Debug\net8.0\GRADE_ASSESSMENT.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\bin\Debug\net8.0\GRADE_ASSESSMENT.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\bin\Debug\net8.0\GRADE_ASSESSMENT.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\refint\GRADE_ASSESSMENT.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\GRADE_ASSESSMENT.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\GRADE_ASSESSMENT\GRADE_ASSESSMENT\obj\Debug\net8.0\ref\GRADE_ASSESSMENT.dll

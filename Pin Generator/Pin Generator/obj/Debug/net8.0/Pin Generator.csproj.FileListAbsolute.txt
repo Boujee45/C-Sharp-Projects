@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\bin\Debug\net8.0\Pin Generator.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\bin\Debug\net8.0\Pin Generator.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\bin\Debug\net8.0\Pin Generator.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\bin\Debug\net8.0\Pin Generator.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\bin\Debug\net8.0\Pin Generator.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\obj\Debug\net8.0\Pin Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\obj\Debug\net8.0\Pin Generator.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\obj\Debug\net8.0\Pin Generator.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\obj\Debug\net8.0\Pin Generator.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\obj\Debug\net8.0\Pin Generator.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\obj\Debug\net8.0\refint\Pin Generator.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\obj\Debug\net8.0\Pin Generator.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\obj\Debug\net8.0\Pin Generator.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Pin Generator\Pin Generator\obj\Debug\net8.0\ref\Pin Generator.dll

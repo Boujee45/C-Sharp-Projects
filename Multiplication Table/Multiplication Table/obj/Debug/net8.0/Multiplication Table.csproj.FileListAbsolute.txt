@@ -1,0 +1,14 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\bin\Debug\net8.0\Multiplication Table.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\bin\Debug\net8.0\Multiplication Table.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\bin\Debug\net8.0\Multiplication Table.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\bin\Debug\net8.0\Multiplication Table.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\bin\Debug\net8.0\Multiplication Table.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\obj\Debug\net8.0\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\obj\Debug\net8.0\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\obj\Debug\net8.0\Multiplication Table.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\obj\Debug\net8.0\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\obj\Debug\net8.0\Multiplication Table.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\obj\Debug\net8.0\refint\Multiplication Table.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\obj\Debug\net8.0\Multiplication Table.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\obj\Debug\net8.0\Multiplication Table.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Multiplication Table\Multiplication Table\obj\Debug\net8.0\ref\Multiplication Table.dll

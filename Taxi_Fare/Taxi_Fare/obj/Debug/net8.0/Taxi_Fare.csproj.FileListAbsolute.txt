@@ -1,0 +1,28 @@
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\bin\Debug\net8.0\Taxi_Fare.exe
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\bin\Debug\net8.0\Taxi_Fare.deps.json
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\bin\Debug\net8.0\Taxi_Fare.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\bin\Debug\net8.0\Taxi_Fare.dll
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\bin\Debug\net8.0\Taxi_Fare.pdb
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.dll
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\refint\Taxi_Fare.dll
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.pdb
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\ref\Taxi_Fare.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\bin\Debug\net8.0\Taxi_Fare.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\bin\Debug\net8.0\Taxi_Fare.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\bin\Debug\net8.0\Taxi_Fare.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\bin\Debug\net8.0\Taxi_Fare.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\bin\Debug\net8.0\Taxi_Fare.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\refint\Taxi_Fare.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\Taxi_Fare.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Taxi_Fare\Taxi_Fare\obj\Debug\net8.0\ref\Taxi_Fare.dll
