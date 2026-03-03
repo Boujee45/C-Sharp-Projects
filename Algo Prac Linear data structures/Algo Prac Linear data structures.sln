@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algo Prac Linear data structures", "Algo Prac Linear data structures\Algo Prac Linear data structures.csproj", "{33342D52-4045-4B10-BCAA-438BC376D974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33342D52-4045-4B10-BCAA-438BC376D974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33342D52-4045-4B10-BCAA-438BC376D974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33342D52-4045-4B10-BCAA-438BC376D974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33342D52-4045-4B10-BCAA-438BC376D974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38ABFAA-7F72-4A5E-89A4-D84A552F0DE3}
+	EndGlobalSection
+EndGlobal

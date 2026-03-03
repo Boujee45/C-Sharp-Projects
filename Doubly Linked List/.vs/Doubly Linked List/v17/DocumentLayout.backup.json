@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Doubly Linked List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1D30EC-8E40-4DA6-8B11-2D901E502E21}|Doubly Linked List\\Doubly Linked List.csproj|c:\\users\\oscar diaz\\source\\repos\\c# projects\\doubly linked list\\doubly linked list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1D30EC-8E40-4DA6-8B11-2D901E502E21}|Doubly Linked List\\Doubly Linked List.csproj|solutionrelative:doubly linked list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Doubly Linked List\\Doubly Linked List\\Program.cs",
+              "RelativeDocumentMoniker": "Doubly Linked List\\Program.cs",
+              "ToolTip": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Doubly Linked List\\Doubly Linked List\\Program.cs",
+              "RelativeToolTip": "Doubly Linked List\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T19:44:32.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

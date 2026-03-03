@@ -1,0 +1,15 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\bin\Debug\net8.0\Practical1.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\bin\Debug\net8.0\Practical1.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\bin\Debug\net8.0\Practical1.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\bin\Debug\net8.0\Practical1.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\bin\Debug\net8.0\Practical1.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\obj\Debug\net8.0\Practical1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\obj\Debug\net8.0\Practical1.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\obj\Debug\net8.0\Practical1.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\obj\Debug\net8.0\Practical1.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\obj\Debug\net8.0\Practical1.sourcelink.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\obj\Debug\net8.0\Practical1.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\obj\Debug\net8.0\refint\Practical1.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\obj\Debug\net8.0\Practical1.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\obj\Debug\net8.0\Practical1.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Practical1\Practical1\obj\Debug\net8.0\ref\Practical1.dll

@@ -1,0 +1,15 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\bin\Debug\net8.0\Grading System.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\bin\Debug\net8.0\Grading System.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\bin\Debug\net8.0\Grading System.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\bin\Debug\net8.0\Grading System.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\bin\Debug\net8.0\Grading System.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\obj\Debug\net8.0\Grading System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\obj\Debug\net8.0\Grading System.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\obj\Debug\net8.0\Grading System.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\obj\Debug\net8.0\Grading System.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\obj\Debug\net8.0\Grading System.sourcelink.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\obj\Debug\net8.0\Grading System.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\obj\Debug\net8.0\refint\Grading System.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\obj\Debug\net8.0\Grading System.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\obj\Debug\net8.0\Grading System.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Grading System\Grading System\obj\Debug\net8.0\ref\Grading System.dll

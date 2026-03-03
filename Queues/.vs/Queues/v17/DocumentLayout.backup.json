@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Queues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A91CEED-8644-4F3B-9552-0C96BCF68078}|Queues\\Queues.csproj|c:\\users\\oscar diaz\\source\\repos\\c# projects\\queues\\queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A91CEED-8644-4F3B-9552-0C96BCF68078}|Queues\\Queues.csproj|solutionrelative:queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Queues\\Queues\\Program.cs",
+              "RelativeDocumentMoniker": "Queues\\Program.cs",
+              "ToolTip": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Queues\\Queues\\Program.cs",
+              "RelativeToolTip": "Queues\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:54:49.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

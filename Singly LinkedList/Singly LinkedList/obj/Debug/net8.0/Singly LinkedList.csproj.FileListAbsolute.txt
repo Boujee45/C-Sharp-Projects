@@ -1,0 +1,15 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\bin\Debug\net8.0\Singly LinkedList.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\bin\Debug\net8.0\Singly LinkedList.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\bin\Debug\net8.0\Singly LinkedList.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\bin\Debug\net8.0\Singly LinkedList.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\bin\Debug\net8.0\Singly LinkedList.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\obj\Debug\net8.0\Singly LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\obj\Debug\net8.0\Singly LinkedList.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\obj\Debug\net8.0\Singly LinkedList.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\obj\Debug\net8.0\Singly LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\obj\Debug\net8.0\Singly LinkedList.sourcelink.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\obj\Debug\net8.0\Singly LinkedList.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\obj\Debug\net8.0\refint\Singly LinkedList.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\obj\Debug\net8.0\Singly LinkedList.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\obj\Debug\net8.0\Singly LinkedList.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Singly LinkedList\Singly LinkedList\obj\Debug\net8.0\ref\Singly LinkedList.dll

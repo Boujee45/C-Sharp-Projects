@@ -1,0 +1,15 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\bin\Debug\net8.0\Circular Linked List.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\bin\Debug\net8.0\Circular Linked List.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\bin\Debug\net8.0\Circular Linked List.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\bin\Debug\net8.0\Circular Linked List.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\bin\Debug\net8.0\Circular Linked List.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\obj\Debug\net8.0\Circular Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\obj\Debug\net8.0\Circular Linked List.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\obj\Debug\net8.0\Circular Linked List.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\obj\Debug\net8.0\Circular Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\obj\Debug\net8.0\Circular Linked List.sourcelink.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\obj\Debug\net8.0\Circular Linked List.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\obj\Debug\net8.0\refint\Circular Linked List.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\obj\Debug\net8.0\Circular Linked List.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\obj\Debug\net8.0\Circular Linked List.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Circular Linked List\Circular Linked List\obj\Debug\net8.0\ref\Circular Linked List.dll

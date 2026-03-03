@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Practical 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1F7822-09D0-4328-8BE4-62737993EA0C}|Practical 2\\Practical 2.csproj|c:\\users\\oscar diaz\\source\\repos\\c# projects\\practical 2\\practical 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1F7822-09D0-4328-8BE4-62737993EA0C}|Practical 2\\Practical 2.csproj|solutionrelative:practical 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Practical 2\\Practical 2\\Program.cs",
+              "RelativeDocumentMoniker": "Practical 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Oscar Diaz\\source\\repos\\C# PROJECTS\\Practical 2\\Practical 2\\Program.cs",
+              "RelativeToolTip": "Practical 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:40:06.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

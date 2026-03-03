@@ -1,0 +1,15 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\bin\Debug\net8.0\Binary Search.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\bin\Debug\net8.0\Binary Search.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\bin\Debug\net8.0\Binary Search.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\bin\Debug\net8.0\Binary Search.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\bin\Debug\net8.0\Binary Search.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\obj\Debug\net8.0\Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\obj\Debug\net8.0\Binary Search.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\obj\Debug\net8.0\Binary Search.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\obj\Debug\net8.0\Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\obj\Debug\net8.0\Binary Search.sourcelink.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\obj\Debug\net8.0\Binary Search.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\obj\Debug\net8.0\refint\Binary Search.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\obj\Debug\net8.0\Binary Search.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\obj\Debug\net8.0\Binary Search.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Binary Search\Binary Search\obj\Debug\net8.0\ref\Binary Search.dll

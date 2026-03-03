@@ -1,0 +1,15 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\bin\Debug\net8.0\Algo Prac Linear data structures.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\bin\Debug\net8.0\Algo Prac Linear data structures.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\bin\Debug\net8.0\Algo Prac Linear data structures.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\bin\Debug\net8.0\Algo Prac Linear data structures.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\bin\Debug\net8.0\Algo Prac Linear data structures.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\obj\Debug\net8.0\Algo Prac Linear data structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\obj\Debug\net8.0\Algo Prac Linear data structures.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\obj\Debug\net8.0\Algo Prac Linear data structures.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\obj\Debug\net8.0\Algo Prac Linear data structures.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\obj\Debug\net8.0\Algo Prac Linear data structures.sourcelink.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\obj\Debug\net8.0\Algo Prac Linear data structures.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\obj\Debug\net8.0\refint\Algo Prac Linear data structures.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\obj\Debug\net8.0\Algo Prac Linear data structures.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\obj\Debug\net8.0\Algo Prac Linear data structures.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Algo Prac Linear data structures\Algo Prac Linear data structures\obj\Debug\net8.0\ref\Algo Prac Linear data structures.dll

@@ -1,0 +1,15 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\bin\Debug\net8.0\carMax.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\bin\Debug\net8.0\carMax.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\bin\Debug\net8.0\carMax.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\bin\Debug\net8.0\carMax.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\bin\Debug\net8.0\carMax.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\obj\Debug\net8.0\carMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\obj\Debug\net8.0\carMax.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\obj\Debug\net8.0\carMax.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\obj\Debug\net8.0\carMax.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\obj\Debug\net8.0\carMax.sourcelink.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\obj\Debug\net8.0\carMax.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\obj\Debug\net8.0\refint\carMax.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\obj\Debug\net8.0\carMax.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\obj\Debug\net8.0\carMax.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\carMax\carMax\obj\Debug\net8.0\ref\carMax.dll

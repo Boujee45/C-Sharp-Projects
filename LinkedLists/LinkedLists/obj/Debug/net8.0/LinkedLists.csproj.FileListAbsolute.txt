@@ -1,0 +1,15 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\bin\Debug\net8.0\LinkedLists.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\bin\Debug\net8.0\LinkedLists.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\bin\Debug\net8.0\LinkedLists.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\bin\Debug\net8.0\LinkedLists.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\bin\Debug\net8.0\LinkedLists.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\obj\Debug\net8.0\LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\obj\Debug\net8.0\LinkedLists.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\obj\Debug\net8.0\LinkedLists.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\obj\Debug\net8.0\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\obj\Debug\net8.0\LinkedLists.sourcelink.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\obj\Debug\net8.0\LinkedLists.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\obj\Debug\net8.0\refint\LinkedLists.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\obj\Debug\net8.0\LinkedLists.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\obj\Debug\net8.0\LinkedLists.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\LinkedLists\LinkedLists\obj\Debug\net8.0\ref\LinkedLists.dll

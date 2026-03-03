@@ -1,0 +1,15 @@
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\bin\Debug\net8.0\Doubly Linked List.exe
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\bin\Debug\net8.0\Doubly Linked List.deps.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\bin\Debug\net8.0\Doubly Linked List.runtimeconfig.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\bin\Debug\net8.0\Doubly Linked List.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\bin\Debug\net8.0\Doubly Linked List.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.AssemblyInfoInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.AssemblyInfo.cs
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.sourcelink.json
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\obj\Debug\net8.0\refint\Doubly Linked List.dll
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.pdb
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\obj\Debug\net8.0\Doubly Linked List.genruntimeconfig.cache
+C:\Users\Oscar Diaz\source\repos\C# PROJECTS\Doubly Linked List\Doubly Linked List\obj\Debug\net8.0\ref\Doubly Linked List.dll
